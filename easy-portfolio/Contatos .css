@@ -1,0 +1,14 @@
+body{
+ background-color:black;
+ color: white;
+ text-align: center;
+}
+footer img{
+ width:40px;
+ height:40px;
+ left: 20px;
+}
+
+nav a:hover{
+ color: green;
+}
